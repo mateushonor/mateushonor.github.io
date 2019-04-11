@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html> lang="pt__BR"
+
+<head>
+  <META>charset="UFT-8"
+
+  <head>
+
+  <body>
+    <h2> Ficha de candidatos
+      <h2>
+        <form>"/action_page.php">
+          <select name="instrumentos">
+            <option value="Guitarra">Guitarra</option>
+            <option value="Bateria"> Bateria</option>
+            <option value="Contra Baixo">Contra Baixo</option>
+            <option value="outros" selected>Não binario</option>
+          </select>
+          <p> Perguntas: <br>
+            <textarea name="Perguntas" rows="10" cols="30" <br><br>
+                    <input type="submit">
+                </form>
+            </body>
+            </html>
+            
